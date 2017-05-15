@@ -1,0 +1,60 @@
+'8416f9c8995a':
+  member-of:
+    - ffda
+    - refugees
+  config:
+    hostname: "64560-stahlbaustr-balkongateway"
+    mesh-vpn: false
+    wireless:
+      preserve-channel: true
+      2_4GHz:
+        channel: 1
+        client: true
+        mesh: true
+    mesh-lan: true
+    mesh-wan: true
+'8416f9c8b436':
+  member-of:
+    - ffda
+    - refugees
+  config:
+    hostname: "64560-stahlbaustr-2og-ost"
+    mesh-vpn: false
+    wireless:
+      preserve-channel: true
+      2_4GHz:
+        channel: 5
+        client: true
+        mesh: false
+    mesh-lan: true
+    mesh-wan: true
+'8416f9c89dce':
+  member-of:
+    - ffda
+    - refugees
+  config:
+    hostname: "64560-stahlbaustr-1og-ost"
+    mesh-vpn: false
+    wireless:
+      preserve-channel: true
+      2_4GHz:
+        channel: 9
+        client: true
+        mesh: false
+    mesh-lan: true
+    mesh-wan: true
+'8416f9c8b4fa':
+  member-of:
+    - ffda
+    - refugees
+  config:
+    hostname: "64560-stahlbaustr-1og-west"
+    mesh-vpn: false
+    wireless:
+      preserve-channel: true
+      2_4GHz:
+        channel: 13
+        client: true
+        mesh: false
+    mesh-lan: true
+    mesh-wan: true

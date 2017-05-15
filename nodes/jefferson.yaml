@@ -1,0 +1,319 @@
+'18a6f7f501f8':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-hds307-dachgw
+    wireless:
+      2_4GHz:
+        channel: 1
+        mesh: true
+'18a6f7f50954':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-hds307-3og
+    wireless:
+      2_4GHz:
+        channel: 5
+'18a6f7f50ece':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-hds307-2og
+    wireless:
+      2_4GHz:
+        channel: 9
+'18a6f7f516ba':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-hds307-1og
+    wireless:
+      2_4GHz:
+        channel: 13
+
+'18a6f7f51660':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-hds309-dachgw
+    wireless:
+      2_4GHz:
+        channel: 1
+        mesh: true
+'18a6f7f5162c':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-hds309-3og
+    wireless:
+      2_4GHz:
+        channel: 13
+'18a6f7f5110e':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-hds309-2og
+    wireless:
+      2_4GHz:
+        channel: 9
+'18a6f7f50a9a':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-hds309-1og
+    wireless:
+      2_4GHz:
+        channel: 5
+
+
+# 4085
+'18a6f7f5165e':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8085-nord-3og
+    wireless:
+      2_4GHz:
+        channel: 5
+        mesh: true
+'18a6f7f51424':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8085-nord-2og
+    wireless:
+      2_4GHz:
+        channel: 9
+'18a6f7f50a48':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8085-nord-1og
+    wireless:
+      2_4GHz:
+        channel: 13
+
+# 4085
+'18a6f7f50da4':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8085-sued-3og
+    wireless:
+      2_4GHz:
+        channel: 13
+        mesh: true
+'18a6f7f50a86':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8085-sued-2og
+    wireless:
+      2_4GHz:
+        channel: 5
+'18a6f7f515f0':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8085-sued-1og
+    wireless:
+      2_4GHz:
+        channel: 9
+
+
+
+
+
+
+# 4084-nord
+'18a6f7f5142e':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8084-nord-3og
+    wireless:
+      2_4GHz:
+        channel: 5
+        mesh: true
+'18a6f7f50b12':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8084-nord-2og
+    wireless:
+      2_4GHz:
+        channel: 9
+'18a6f7f50ae0':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8084-nord-1og
+    wireless:
+      2_4GHz:
+        channel: 13
+
+# 4084
+'18a6f7f509f2':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8084-sued-3og
+    wireless:
+      2_4GHz:
+        channel: 13
+        mesh: true
+'18a6f7f5163e':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8084-sued-2og
+    wireless:
+      2_4GHz:
+        channel: 5
+'18a6f7f516f8':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8084-sued-1og
+    wireless:
+      2_4GHz:
+        channel: 9
+
+
+
+
+# 4084-nord
+'18a6f7f50fa6':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8083-nord-4og
+    wireless:
+      2_4GHz:
+        channel: 5
+        mesh: true
+'18a6f7f50af6':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8083-nord-3og
+    wireless:
+      2_4GHz:
+        channel: 5
+        mesh: true
+'18a6f7f51414':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8083-nord-2og
+    wireless:
+      2_4GHz:
+        channel: 9
+'18a6f7f5164c':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8083-nord-1og
+    wireless:
+      2_4GHz:
+        channel: 13
+
+# 4084
+'18a6f7f508a6':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8083-sued-3og
+    wireless:
+      2_4GHz:
+        channel: 13
+        mesh: true
+'18a6f7f516a6':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8083-sued-2og
+    wireless:
+      2_4GHz:
+        channel: 5
+'18a6f7f50af2':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8083-sued-1og
+    wireless:
+      2_4GHz:
+        channel: 9
+
+
+'18a6f7f50ae2':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-4082-nord-dachgw
+    wireless:
+      2_4GHz:
+        channel: 1
+'18a6f7f50b34':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-4082-nord-3og
+    wireless:
+      2_4GHz:
+        channel: 5
+'18a6f7f50a92':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-4082-nord-2og
+    wireless:
+      2_4GHz:
+        channel: 9
+'18a6f7f50a2c':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-4082-nord-1og
+    wireless:
+      2_4GHz:
+        channel: 13
+'18a6f7f51160':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-4082-nord-eg
+    wireless:
+      2_4GHz:
+        channel: 1
+
+
+# 4081
+'18a6f7f5063a':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8081-nord-2og
+    wireless:
+      2_4GHz:
+        channel: 13
+        mesh: true
+'18a6f7f50890':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8081-nord-1og
+    wireless:
+      2_4GHz:
+        channel: 9
+        mesh: true
+'18a6f7f50dd8':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8081-nord-eg
+    wireless:
+      2_4GHz:
+        channel: 9
+        mesh: true
