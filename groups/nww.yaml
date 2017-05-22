@@ -1,0 +1,18 @@
+prefix: 'fd01:67c:2ed8:6100::'
+config:
+  ssh-keys:
+    - blocktrron_freifunk.pub
+    - fluxx.pub
+    - hucks.pub
+    - dirks.pub
+    - antiasina.pub
+  wireless:
+    preserve-channel: true
+    2_4GHz:
+      client: true
+      mesh: false
+    5GHz:
+      client: true
+      mesh: true
+  mesh-lan: true
+  mesh-wan: true
