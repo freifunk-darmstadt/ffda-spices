@@ -1,0 +1,50 @@
+'a0f3c15ec93a':
+  member-of:
+    - nww
+  config:
+    hostname: 64293-nww-ap2
+    wireless:
+      2_4GHz:
+        channel: 1
+      5GHz:
+        channel: 44
+'6470029871a0':
+  member-of:
+    - nww
+  config:
+    hostname: 64293-nww-ap4
+    wireless:
+      2_4GHz:
+        channel: 1
+      5GHz:
+        channel: 44
+'14cc20ec6af2':
+  member-of:
+    - nww
+  config:
+    hostname: 64293-nww-ap6
+    wireless:
+      2_4GHz:
+        channel: 1
+      5GHz:
+        channel: 44
+'f81a675aa0de':
+  member-of:
+    - nww
+  config:
+    hostname: 64293-nww-ap8
+    wireless:
+      2_4GHz:
+        channel: 1
+      5GHz:
+        channel: 44
+'18d6c7867d98':
+  member-of:
+    - nww
+  config:
+    hostname: 64293-nww-ap10
+    wireless:
+      2_4GHz:
+        channel: 1
+      5GHz:
+        channel: 44
