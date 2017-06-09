@@ -1,22 +1,3 @@
-'e894f6d45a3e':
-  member-of:
-    - ffda
-    - refugees
-  config:
-    hostname: "64283-example-node"
-    mesh-vpn: false
-    wireless:
-      preserve-channel: true
-      2_4GHz:
-        channel: 1
-        client: true
-        mesh: true
-      5GHz:
-        client: false
-        mesh: true
-    mesh-lan: true
-    mesh-wan: true
-
 '18:a6:f7:eb:72:f4':
   ignore: false
   member-of:
