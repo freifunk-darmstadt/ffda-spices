@@ -179,6 +179,18 @@
         channel: 9
 
 # 4084-nord
+'18a6f7f50abc':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-4084-nord-dachgw
+    location:
+      enabled: true
+      latitude: 49.843666550
+      longitude: 8.653141558
+    wireless:
+      2_4GHz:
+        channel: 1
 '18a6f7f5142e':
   member-of:
     - jefferson
@@ -215,6 +227,10 @@
     - jefferson
   config:
     hostname: 64285-jefferson-4084-sued-3og
+    location:
+      enabled: true
+      latitude: 49.843460717
+      longitude: 8.652905524
     wireless:
       2_4GHz:
         channel: 13
@@ -224,6 +240,10 @@
     - jefferson
   config:
     hostname: 64285-jefferson-4084-sued-2og
+    location:
+      enabled: true
+      latitude: 49.843420934
+      longitude: 8.652835786
     wireless:
       2_4GHz:
         channel: 5
@@ -232,6 +252,10 @@
     - jefferson
   config:
     hostname: 64285-jefferson-4084-sued-1og
+    location:
+      enabled: true
+      latitude: 49.843405367
+      longitude: 8.652889431
     wireless:
       2_4GHz:
         channel: 9
@@ -255,6 +279,10 @@
     - jefferson
   config:
     hostname: 64285-jefferson-4083-nord-3og
+    location:
+      enabled: true
+      latitude: 49.843988272
+      longitude: 8.653753102
     wireless:
       2_4GHz:
         channel: 5
@@ -264,6 +292,10 @@
     - jefferson
   config:
     hostname: 64285-jefferson-4083-nord-2og
+    location:
+      enabled: true
+      latitude: 49.844034973
+      longitude: 8.653849661
     wireless:
       2_4GHz:
         channel: 9
@@ -272,6 +304,10 @@
     - jefferson
   config:
     hostname: 64285-jefferson-4083-nord-1og
+    location:
+      enabled: true
+      latitude: 49.844033244
+      longitude: 8.653761148
     wireless:
       2_4GHz:
         channel: 13
@@ -458,6 +494,10 @@
     - jefferson
   config:
     hostname: 64285-jefferson-4081-nord-2og
+    location:
+      enabled: true
+      latitude: 49.845043365
+      longitude: 8.655692339
     wireless:
       2_4GHz:
         channel: 13
@@ -467,6 +507,10 @@
     - jefferson
   config:
     hostname: 64285-jefferson-4081-nord-1og
+    location:
+      enabled: true
+      latitude: 49.845036446
+      longitude: 8.655853271
     wireless:
       2_4GHz:
         channel: 9
@@ -476,7 +520,30 @@
     - jefferson
   config:
     hostname: 64285-jefferson-4081-nord-eg
+    location:
+      enabled: true
+      latitude: 49.845109091
+      longitude: 8.655770123
     wireless:
       2_4GHz:
-        channel: 9
+        channel: 5
         mesh: true
+'18a6f7f510c0':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-4081-nord-dachgw
+    location:
+      enabled: true
+      latitude: 49.844986286
+      longitude: 8.655772805
+    wireless:
+      2_4GHz:
+        channel: 1
+        mesh: true
+# 4087
+'18a6f7f51680':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-4087-serverraum
