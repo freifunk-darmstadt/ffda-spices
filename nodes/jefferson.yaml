@@ -87,18 +87,7 @@
     wireless:
       2_4GHz:
         channel: 9
-'18a6f7f50a9a':
-  member-of:
-    - jefferson
-  config:
-    hostname: 64285-jefferson-hds309-1og
-    location:
-      enabled: true
-      latitude: 49.843215099
-      longitude: 8.652015030
-    wireless:
-      2_4GHz:
-        channel: 5
+
 
 # 4085-nord
 '18a6f7f5165e':
@@ -547,3 +536,18 @@
     - jefferson
   config:
     hostname: 64285-jefferson-4087-serverraum
+
+# kirche
+'18a6f7f50a9a':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-kirche-cw-gw
+    location:
+      enabled: true
+      latitude: 49.843009264
+      longitude: 8.651234508
+    wireless:
+      2_4GHz:
+        channel: 5
+    mesh-lan: false
