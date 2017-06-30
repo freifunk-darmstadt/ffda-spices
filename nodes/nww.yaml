@@ -3,6 +3,10 @@
     - nww
   config:
     hostname: 64293-nww-ap1
+    location:
+      enabled: true
+      latitude: 49.880144062
+      longitude: 8.630114794
     wireless:
       2_4GHz:
         channel: 1
@@ -13,6 +17,10 @@
     - nww
   config:
     hostname: 64293-nww-ap2
+    location:
+      enabled: true
+      latitude: 49.880085296
+      longitude: 8.630047739
     wireless:
       2_4GHz:
         channel: 1
@@ -23,6 +31,10 @@
     - nww
   config:
     hostname: 64293-nww-ap3
+    location:
+      enabled: true
+      latitude: 49.880123321
+      longitude: 8.630187213
     wireless:
       2_4GHz:
         channel: 1
@@ -43,6 +55,10 @@
     - nww
   config:
     hostname: 64293-nww-ap5
+    location:
+      enabled: true
+      latitude: 49.880085296
+      longitude: 8.630291820
     wireless:
       2_4GHz:
         channel: 1
@@ -53,6 +69,10 @@
     - nww
   config:
     hostname: 64293-nww-ap6
+    location:
+      enabled: true
+      latitude: 49.880035173
+      longitude: 8.630208671
     wireless:
       2_4GHz:
         channel: 1
@@ -63,6 +83,10 @@
     - nww
   config:
     hostname: 64293-nww-ap7
+    location:
+      enabled: true
+      latitude: 49.880052457 
+      longitude: 8.630423248
     wireless:
       2_4GHz:
         channel: 1
@@ -93,6 +117,10 @@
     - nww
   config:
     hostname: 64293-nww-ap10
+    location:
+      enabled: true
+      latitude: 49.880130234
+      longitude: 8.630053103
     wireless:
       2_4GHz:
         channel: 1
