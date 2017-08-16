@@ -464,7 +464,7 @@
     wireless:
       2_4GHz:
         channel: 5
-'18a6f7f51546':
+'98ded0dfdeea':
   member-of:
     - jefferson
   config:
