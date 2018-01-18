@@ -1,6 +1,5 @@
-prefix: '2001:67c:2ed8:6100::'
+prefix: 'fd01:67c:2ed8:6100::'
 config:
-  contact: info@darmstadt.freifunk.net
   ssh-keys:
     - blocktrron_freifunk.pub
     - fluxx.pub

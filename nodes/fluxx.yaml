@@ -1,0 +1,8 @@
+'908d7823af28':
+  member-of:
+    - ffda
+  config:
+    hostname: "64560-tonne"
+    mesh-vpn: true
+    ssh-keys:
+      - fluxx.pub

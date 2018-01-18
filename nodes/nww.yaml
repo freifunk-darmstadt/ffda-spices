@@ -89,9 +89,9 @@
       longitude: 8.630423248
     wireless:
       2_4GHz:
-        channel: 1
+        channel: 5
       5GHz:
-        channel: 44
+        channel: 64
 'f81a675aa0de':
   member-of:
     - nww

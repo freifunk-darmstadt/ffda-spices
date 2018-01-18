@@ -20,7 +20,7 @@
     location:
       enabled: true
       latitude: 49.842988507
-      longitude: 8.651827276 
+      longitude: 8.651827276
     wireless:
       2_4GHz:
         channel: 5
@@ -566,3 +566,76 @@
       2_4GHz:
         channel: 1
         mesh: true
+# 4090
+'98ded0dfdf46':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8090-dach-ap1
+    location:
+      enabled: true
+    wireless:
+      2_4GHz:
+        channel: 1
+    mesh-lan: true
+    mesh-wan: true
+'98ded0dfda18':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8090-dach-ap2
+    location:
+      enabled: true
+    wireless:
+      2_4GHz:
+        channel: 1
+    mesh-lan: true
+    mesh-wan: true
+'98ded0dfde4a':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8090-dach-ap3
+    location:
+      enabled: true
+    wireless:
+      2_4GHz:
+        channel: 1
+    mesh-lan: true
+    mesh-wan: true
+'98ded0dfdf5a':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8090-dach-ap4
+    location:
+      enabled: true
+    wireless:
+      2_4GHz:
+        channel: 1
+    mesh-lan: true
+    mesh-wan: true
+'98ded0dfde40':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8090-eg-nord
+    location:
+      enabled: true
+    wireless:
+      2_4GHz:
+        channel: 1
+    mesh-lan: true
+    mesh-wan: true
+'98ded0dfde5e':
+  member-of:
+    - jefferson
+  config:
+    hostname: 64285-jefferson-8090-eg-sued
+    location:
+      enabled: true
+    wireless:
+      2_4GHz:
+        channel: 1
+    mesh-lan: true
+    mesh-wan: true

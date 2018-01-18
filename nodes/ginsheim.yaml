@@ -1,0 +1,28 @@
+'8416f9e8d78c':
+  member-of:
+    - refugees
+    - ffda
+  config:
+    hostname: 65462-ginsheim-ap1
+    wireless:
+      2_4GHz:
+        channel: 1
+      5GHz:
+        channel: 44
+    mesh-vpn: true
+    mesh-lan: true
+    mesh-wan: false
+'18d6c751620c':
+  member-of:
+    - refugees
+    - ffda
+  config:
+    hostname: 65462-ginsheim-ap2
+    wireless:
+      2_4GHz:
+        channel: 1
+      5GHz:
+        channel: 44
+    mesh-vpn: false
+    mesh-lan: true
+    mesh-wan: true
